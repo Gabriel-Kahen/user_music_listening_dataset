@@ -2,10 +2,6 @@
 
 GitHub mirror for the Kaggle dataset [`gabrielkahen/music-listening-data-500k-users`](https://www.kaggle.com/datasets/gabrielkahen/music-listening-data-500k-users) and its companion notebooks.
 
-## Contents
-
-- `notebooks/artist_network.ipynb`
-- `notebooks/top_artists.ipynb`
 
 ## Data Downloads
 
