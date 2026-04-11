@@ -11,10 +11,19 @@ GitHub mirror for the Kaggle dataset [`gabrielkahen/music-listening-data-500k-us
 
 The dataset files are published as GitHub release assets instead of being committed into the repository.
 
-- `csv-*` assets contain the CSV version of the dataset.
-- `duckdb-*` assets contain the DuckDB database and supporting SQL files.
+CSV assets:
 
-If a release asset is split into multiple parts to fit GitHub's upload limits, download every part in that group before extracting it.
+- `csv-users.csv`
+- `csv-user_top_artists.csv`
+- `csv-user_top_tracks.csv`
+- `csv-user_top_albums.csv`
+
+DuckDB assets:
+
+- `duckdb-bundle.zip`
+- `duckdb-bundle.z01`
+
+For the DuckDB download, place both files in the same folder and unzip `duckdb-bundle.zip`.
 
 ## Kaggle Sources
 
