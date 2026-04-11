@@ -1,8 +1,6 @@
-# music_listening_dataset
-
 GitHub mirror for the Kaggle dataset [`gabrielkahen/music-listening-data-500k-users`](https://www.kaggle.com/datasets/gabrielkahen/music-listening-data-500k-users) and its companion notebooks.
 
-## Scope: ~500,000 Users
+# Scope: ~500,000 Users
 
 ## Data Downloads
 
