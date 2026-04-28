@@ -92,16 +92,3 @@ For the DuckDB download, place both files in the same folder and unzip `duckdb-b
 ## Related Search Terms
 
 People looking for this dataset may also search for music recommendation dataset, music recommender systems dataset, collaborative filtering music dataset, Last.fm-style listening history dataset, user listening history data, music user behavior dataset, user-artist interaction data, music playcount dataset, MusicBrainz dataset, and music analytics dataset.
-
-## Citation
-
-If you use this dataset in a project, paper, notebook, or analysis, please cite the Kaggle dataset page:
-
-```bibtex
-@misc{kahen_music_listening_500k_2026,
-  title = {Music Listening Data: Top Artists, Tracks, and Albums for 500k Users},
-  author = {Kahen, Gabriel},
-  year = {2026},
-  url = {https://www.kaggle.com/datasets/gabrielkahen/music-listening-data-500k-users}
-}
-```
